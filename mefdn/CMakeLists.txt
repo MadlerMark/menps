@@ -281,7 +281,7 @@ configure_file(${CMAKE_CURRENT_SOURCE_DIR}/src/config.h.in
 # mefdn : SHARED/STATIC target
 
 add_library(mefdn
-    ./external/fmt/fmt/format.cc    
+    ./external/fmt/src/format.cc    
     #./external/fmt/src/posix.cc
     ./src/malloc.cpp
     ./src/disable_aslr.cpp
