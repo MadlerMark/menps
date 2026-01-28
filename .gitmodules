@@ -1,12 +1,15 @@
 [submodule "mefdn/external/fmt"]
 	path = mefdn/external/fmt
 	url = https://github.com/fmtlib/fmt.git
+	branch = 5.3.0
 [submodule "medev2/external/ucx"]
 	path = medev2/external/ucx
 	url = https://github.com/openucx/ucx.git
+	branch = v1.5.2
 [submodule "cmpth/external/doctest"]
 	path = cmpth/external/doctest
 	url = https://github.com/onqtam/doctest.git
+	branch = 2.3.0
 [submodule "cmpth/external/massivethreads"]
 	path = cmpth/external/massivethreads
 	url = https://github.com/endowataru/massivethreads.git
@@ -17,3 +20,4 @@
 [submodule "cmpth/external/argobots"]
 	path = cmpth/external/argobots
 	url = https://github.com/pmodels/argobots.git
+	branch = v1.0
