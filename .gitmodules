@@ -1,7 +1,7 @@
 [submodule "mefdn/external/fmt"]
 	path = mefdn/external/fmt
 	url = https://github.com/fmtlib/fmt.git
-	branch = 4.1.0
+	branch = 3.0.2
 [submodule "medev2/external/ucx"]
 	path = medev2/external/ucx
 	url = https://github.com/openucx/ucx.git
